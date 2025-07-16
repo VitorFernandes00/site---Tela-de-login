@@ -27,3 +27,6 @@ Este projeto apresenta duas páginas web modernas e responsivas para **login** e
 - Layout responsivo com duas seções (formulário e informações)
 
 ---
+
+👨‍💻 Autor
+Feito com 💙 por Vitor Fernandes
